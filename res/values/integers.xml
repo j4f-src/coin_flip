@@ -1,0 +1,4 @@
+<resources>
+    <integer name="full_flip_time">1000</integer>
+    <integer name="half_flip_time">500</integer>
+</resources>
